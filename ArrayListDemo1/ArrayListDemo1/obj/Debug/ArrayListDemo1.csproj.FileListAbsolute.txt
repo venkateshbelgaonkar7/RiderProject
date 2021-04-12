@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/bin/Debug/ArrayListDemo1.exe
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/bin/Debug/ArrayListDemo1.pdb
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/obj/Debug/ArrayListDemo1.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/obj/Debug/ArrayListDemo1.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/obj/Debug/ArrayListDemo1.exe
+/home/venkatesh/RiderProjects/ArrayListDemo1/ArrayListDemo1/obj/Debug/ArrayListDemo1.pdb

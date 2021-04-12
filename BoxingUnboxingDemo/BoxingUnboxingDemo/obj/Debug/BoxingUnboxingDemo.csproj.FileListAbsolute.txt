@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/bin/Debug/BoxingUnboxingDemo.exe
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/bin/Debug/BoxingUnboxingDemo.pdb
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/obj/Debug/BoxingUnboxingDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/obj/Debug/BoxingUnboxingDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/obj/Debug/BoxingUnboxingDemo.exe
+/home/venkatesh/RiderProjects/BoxingUnboxingDemo/BoxingUnboxingDemo/obj/Debug/BoxingUnboxingDemo.pdb
