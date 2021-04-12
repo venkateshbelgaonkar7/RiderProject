@@ -1,0 +1,2 @@
+/home/venkatesh/RiderProjects/SealedClassDemo/SealedClassDemo/obj/Debug/SealedClassDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/SealedClassDemo/SealedClassDemo/obj/Debug/SealedClassDemo.csproj.CoreCompileInputs.cache

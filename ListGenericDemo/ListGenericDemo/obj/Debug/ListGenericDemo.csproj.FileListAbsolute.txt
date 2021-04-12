@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/bin/Debug/ListGenericDemo.exe
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/bin/Debug/ListGenericDemo.pdb
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/obj/Debug/ListGenericDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/obj/Debug/ListGenericDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/obj/Debug/ListGenericDemo.exe
+/home/venkatesh/RiderProjects/ListGenericDemo/ListGenericDemo/obj/Debug/ListGenericDemo.pdb

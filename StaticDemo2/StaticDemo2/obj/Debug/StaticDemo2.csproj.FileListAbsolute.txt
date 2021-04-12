@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/bin/Debug/StaticDemo2.exe
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/bin/Debug/StaticDemo2.pdb
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/obj/Debug/StaticDemo2.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/obj/Debug/StaticDemo2.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/obj/Debug/StaticDemo2.exe
+/home/venkatesh/RiderProjects/StaticDemo2/StaticDemo2/obj/Debug/StaticDemo2.pdb

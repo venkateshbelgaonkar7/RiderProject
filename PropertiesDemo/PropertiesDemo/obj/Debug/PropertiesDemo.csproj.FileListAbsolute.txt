@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/bin/Debug/PropertiesDemo.exe
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/bin/Debug/PropertiesDemo.pdb
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/obj/Debug/PropertiesDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/obj/Debug/PropertiesDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/obj/Debug/PropertiesDemo.exe
+/home/venkatesh/RiderProjects/PropertiesDemo/PropertiesDemo/obj/Debug/PropertiesDemo.pdb

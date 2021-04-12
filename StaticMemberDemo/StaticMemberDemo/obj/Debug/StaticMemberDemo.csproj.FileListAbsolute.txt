@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/bin/Debug/StaticMemberDemo.exe
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/bin/Debug/StaticMemberDemo.pdb
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/obj/Debug/StaticMemberDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/obj/Debug/StaticMemberDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/obj/Debug/StaticMemberDemo.exe
+/home/venkatesh/RiderProjects/StaticMemberDemo/StaticMemberDemo/obj/Debug/StaticMemberDemo.pdb

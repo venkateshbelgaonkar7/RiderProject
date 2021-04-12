@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/bin/Debug/SecondSolution.exe
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/bin/Debug/SecondSolution.pdb
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/obj/Debug/SecondSolution.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/obj/Debug/SecondSolution.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/obj/Debug/SecondSolution.exe
+/home/venkatesh/RiderProjects/SecondSolution/SecondSolution/obj/Debug/SecondSolution.pdb

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadingDemo", "MethodOverloadingDemo\MethodOverloadingDemo.csproj", "{DC26A051-A08F-4C07-BA4E-7C76195D2BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC26A051-A08F-4C07-BA4E-7C76195D2BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC26A051-A08F-4C07-BA4E-7C76195D2BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC26A051-A08F-4C07-BA4E-7C76195D2BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC26A051-A08F-4C07-BA4E-7C76195D2BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
