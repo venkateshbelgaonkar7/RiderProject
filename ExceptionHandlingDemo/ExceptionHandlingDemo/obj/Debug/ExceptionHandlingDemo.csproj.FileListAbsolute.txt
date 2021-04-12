@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/bin/Debug/ExceptionHandlingDemo.exe
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/bin/Debug/ExceptionHandlingDemo.pdb
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/obj/Debug/ExceptionHandlingDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/obj/Debug/ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/obj/Debug/ExceptionHandlingDemo.exe
+/home/venkatesh/RiderProjects/ExceptionHandlingDemo/ExceptionHandlingDemo/obj/Debug/ExceptionHandlingDemo.pdb

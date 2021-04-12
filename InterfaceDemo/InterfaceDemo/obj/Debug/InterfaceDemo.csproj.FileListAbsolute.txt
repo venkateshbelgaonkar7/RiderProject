@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/bin/Debug/InterfaceDemo.exe
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/bin/Debug/InterfaceDemo.pdb
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/obj/Debug/InterfaceDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/obj/Debug/InterfaceDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/obj/Debug/InterfaceDemo.exe
+/home/venkatesh/RiderProjects/InterfaceDemo/InterfaceDemo/obj/Debug/InterfaceDemo.pdb

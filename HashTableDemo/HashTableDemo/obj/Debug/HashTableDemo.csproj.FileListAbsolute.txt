@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/bin/Debug/HashTableDemo.exe
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/bin/Debug/HashTableDemo.pdb
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/obj/Debug/HashTableDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/obj/Debug/HashTableDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/obj/Debug/HashTableDemo.exe
+/home/venkatesh/RiderProjects/HashTableDemo/HashTableDemo/obj/Debug/HashTableDemo.pdb

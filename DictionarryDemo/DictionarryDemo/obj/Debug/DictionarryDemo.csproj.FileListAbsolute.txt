@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/bin/Debug/DictionarryDemo.exe
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/bin/Debug/DictionarryDemo.pdb
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/obj/Debug/DictionarryDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/obj/Debug/DictionarryDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/obj/Debug/DictionarryDemo.exe
+/home/venkatesh/RiderProjects/DictionarryDemo/DictionarryDemo/obj/Debug/DictionarryDemo.pdb

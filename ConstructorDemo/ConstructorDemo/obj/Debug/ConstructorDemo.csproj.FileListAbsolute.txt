@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/bin/Debug/ConstructorDemo.exe
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/bin/Debug/ConstructorDemo.pdb
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/obj/Debug/ConstructorDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/obj/Debug/ConstructorDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/obj/Debug/ConstructorDemo.exe
+/home/venkatesh/RiderProjects/ConstructorDemo/ConstructorDemo/obj/Debug/ConstructorDemo.pdb

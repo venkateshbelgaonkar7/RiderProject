@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/bin/Debug/FirstProject.exe
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/bin/Debug/FirstProject.pdb
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/obj/Debug/FirstProject.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/obj/Debug/FirstProject.exe
+/home/venkatesh/RiderProjects/FirstSolution/FirstProject/obj/Debug/FirstProject.pdb

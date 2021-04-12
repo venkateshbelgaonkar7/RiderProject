@@ -1,0 +1,6 @@
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/obj/Debug/DelegateDemo.csprojAssemblyReference.cache
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/obj/Debug/DelegateDemo.csproj.CoreCompileInputs.cache
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/bin/Debug/DelegateDemo.exe
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/bin/Debug/DelegateDemo.pdb
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/obj/Debug/DelegateDemo.exe
+/home/venkatesh/RiderProjects/DelegateDemo/DelegateDemo/obj/Debug/DelegateDemo.pdb
